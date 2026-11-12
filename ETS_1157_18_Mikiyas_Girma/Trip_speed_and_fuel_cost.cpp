@@ -29,7 +29,7 @@ int main() {
 
     cout << "Enter travel time (Hours ony): ";
     cin >> hours;
-    cout<<"Enter additional minutes if any (0-59): ";
+    cout<<"Enter additional minutes : ";
     cin>> minutes;
 
     cout << "Enter fuel use per 100 km: ";
